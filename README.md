@@ -1,1 +1,1 @@
-# Visualizaci-n_Practicas_3ro
+# Visualizacion_Practicas_3ro
