@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Visualizacion_Practicas_3ro
-=======
 # Prácticas de Visualización de Datos (3º)
 
 Repositorio de prácticas de la asignatura **Visualización de Datos** del Grado en Ciencia e Ingeniería de Datos (EPS - UAM).
